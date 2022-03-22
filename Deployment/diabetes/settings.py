@@ -25,7 +25,7 @@ SECRET_KEY = '0%=rx_0d1(+lc7oda!f4mofxg+2$4ddv3#in7!fs!7^zcrbzxk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
